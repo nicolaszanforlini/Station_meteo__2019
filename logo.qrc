@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>logo/neige.png</file>
+        <file>logo/nuage.png</file>
+        <file>logo/nuage3.png</file>
+        <file>logo/nuage-leger.png</file>
+        <file>logo/pluie.png</file>
+        <file>logo/soleil.png</file>
+        <file>logo/soleil-nuage.png</file>
+    </qresource>
+    <qresource prefix="/pic">
+        <file>sky.jpg</file>
+    </qresource>
+</RCC>
