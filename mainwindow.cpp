@@ -25,7 +25,7 @@ MainWindow::MainWindow(QWidget *parent) :
 
     // affichage du titre de la fenetre
 
-    this->setWindowTitle("===/ ASTOU / SERGE / NICOLAS /===");
+    this->setWindowTitle("===/ METEO /===");
 
     // affichage heure
 
